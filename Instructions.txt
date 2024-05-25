@@ -1,0 +1,3 @@
+-> Download the required dataset online
+-> Create a virtual environment for python and download all the imported packages
+-> Run the notebook to extract the model variable
